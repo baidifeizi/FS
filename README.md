@@ -6,3 +6,4 @@ Run the "pj.m" and "QCK.m" files to view the evaluation results of the fused ima
 
 Operating Environment
 Windows 10 with a 2.60GHz CPU, 8GB RAM, and MATLAB 2016a.
+![image](https://github.com/baidifeizi/FS/assets/133471936/181d1912-a69a-4f3d-aeb4-6100969a346b)
